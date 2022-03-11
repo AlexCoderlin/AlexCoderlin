@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- ⚡ El objetivo es encontrar soluciones a problemas empresariales y sociales con principios científicos o matemáticos 🔎. Estar bien con mi familia, con dios y
+conmigo mismo 💫.
+
 <!--
 **AlexCoderlin/AlexCoderlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
